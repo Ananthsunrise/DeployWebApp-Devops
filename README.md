@@ -7,8 +7,11 @@ The objective of this task was to deploy a simple web application using azure ku
 Task Details
 
 Task Status: Completed
+
 Date: 23/01/2025
+
 Assignee: Ananth U
+
 HR: H imtiaz
 
 
